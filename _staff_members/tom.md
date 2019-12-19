@@ -1,5 +1,5 @@
 ---
-name: Tom Wilson
+name: 沈红艳
 position: CTO
 image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
 twitter_username: CloudCannon
