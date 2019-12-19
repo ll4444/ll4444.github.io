@@ -1,5 +1,5 @@
 ---
-name: Betty Jefferson
+name: 何雪
 position: Developer
 image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
 twitter_username: CloudCannon
