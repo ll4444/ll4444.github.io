@@ -1,6 +1,6 @@
 ---
 title: Chongqing University of Education
-date: 2019-12-24
+date: 2019-12-22
 description: 南山上最美的风景！
 categories:
   - friends
