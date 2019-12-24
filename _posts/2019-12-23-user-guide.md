@@ -1,6 +1,6 @@
 ---
 title: User guide
-date: 2016-07-20
+date: 2019-12-23
 description: An introduction to Git and Github for beginners
 categories:
   - friends
